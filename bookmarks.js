@@ -6,6 +6,7 @@ const bookmarks = [
       { name: "Inbox", url: "https://inbox.google.com" },
       { name: "GitHub", url: "https://github.com" },
       { name: "Drive", url: "https://drive.google.com" },
+      { name: "Leho", url: "https://leho-howest.instructure.com/?login_success=1" },
     ],
   },
   {
