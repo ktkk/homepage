@@ -33,6 +33,7 @@ const bookmarks = [
     title: "Social",
     links: [
       { name: "Twitter", url: "https://twitter.com" },
+      { name: "Discord", url: "https://discord.com/channels/@me" },
     ],
   },
 ];
