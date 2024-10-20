@@ -32,6 +32,7 @@ const bookmarks = [
   {
     title: "Social",
     links: [
+      { name: "Bluesky", url: "https://bsky.app/" },
       { name: "Twitter", url: "https://twitter.com/" },
       { name: "Reddit", url: "https://reddit.com/" },
       { name: "Discord", url: "https://discord.com/channels/@me/" },
